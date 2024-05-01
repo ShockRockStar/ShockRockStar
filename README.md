@@ -9,14 +9,14 @@ For the past several years i've been interested in coding and cybersecurity. Ove
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with LimaCharlie SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                                | Associated Project         |
+|-----------------------------------------------       |----------------------------|
+| SIEM Implementation, Log Analysis, Threat Mapping    | <a href="https://github.com/ShockRockStar/Azure-Sentinal-Attack-Mapping/tree/main">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection      | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with LimaCharlie SOAR            | SOC Automation Lab|
+| Incident Response Planning and Execution             | SOC Automation Lab|
+| Case Management with TheHive                         | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation       | SOC Automation Lab|
 
 ## Tools
 
@@ -51,5 +51,5 @@ For the past several years i've been interested in coding and cybersecurity. Ove
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/ShockRockStar/Azure-Sentinal-Attack-Mapping/tree/main">Detection Lab</a>
 - SOC Automation Project
